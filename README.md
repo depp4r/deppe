@@ -8,4 +8,6 @@
 **Я Владелец альянса ffp**
 *2673 афк бездарное*
 ```javascript 
-let is Alive = true; do{code()} while is Alive; function code(){alert('2673kd govno')}```
+let is Alive = true;
+do{code()} while is Alive;
+function code(){alert('2673kd govno')}```
