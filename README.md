@@ -10,4 +10,5 @@
 ```javascript 
 let is Alive = true;
 do{code()} while is Alive;
-function code(){alert('2673kd govno')}```
+function code()
+{alert('2673kd govno')}```
